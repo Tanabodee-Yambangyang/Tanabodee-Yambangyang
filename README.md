@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Tanabodee
 
 ## About me
-### I am an aspiring software developer with a deep passion for Front-end development.
-
+#### I am an aspiring software developer student at Kasetsart University with a deep passion for Front-end development.
 - See my resume at: <https://drive.google.com/file/d/14jGw_4LbvP_7Up36wgOcF1MLDuZubSni/view?usp=sharing>
 - See my portfolio website at: <https://resume-website-pi.vercel.app/>
   
