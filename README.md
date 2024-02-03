@@ -26,12 +26,22 @@
 
 ## How to reach me
 <a href="https://www.facebook.com/profile.php?id=100007994625777">
-<img
-  src="https://github.com/Tanabodee-Yambangyang/Tanabodee-Yambangyang/blob/main/images/facebook.png?raw=true"
-  alt="Alt text"
-  title="Optional title"
-  width="100">
+  <img
+    src="https://github.com/Tanabodee-Yambangyang/Tanabodee-Yambangyang/blob/main/images/facebook.png?raw=true"
+    alt="Alt text"
+    title="Optional title"
+    width="90">
 </a>
+
+<a href="https://www.linkedin.com/in/tanabodee-yambangyang-11a3882a2/">
+  <img
+    src="https://github.com/Tanabodee-Yambangyang/Tanabodee-Yambangyang/blob/main/images/linkedin.png?raw=true"
+    alt="Alt text"
+    title="Optional title"
+    width="90">
+</a>
+
+
 
 
 <!--
