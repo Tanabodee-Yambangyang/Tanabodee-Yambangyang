@@ -2,7 +2,7 @@
 
 ## About me
 #### I am an aspiring software developer student at Kasetsart University with a deep passion for Front-end development.
-- See my resume at: <https://drive.google.com/file/d/14jGw_4LbvP_7Up36wgOcF1MLDuZubSni/view?usp=sharing>
+- See my resume at: <https://drive.google.com/file/d/1CVc8o0JL7I-dA9o8mQc9Wact3R9QCBV_/view?usp=sharing>
 - See my portfolio website at: <https://resume-website-pi.vercel.app/>
   
 👯 I'm looking for an internship as a Web Front-end developer or Fullstack developer in Bangkok/Thailand.
