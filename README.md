@@ -5,8 +5,6 @@
 - See my resume at: <https://drive.google.com/file/d/1CVc8o0JL7I-dA9o8mQc9Wact3R9QCBV_/view?usp=sharing>
 - See my portfolio website at: <https://resume-website-pi.vercel.app/>
   
-👯 ~~I'm looking for an internship as a Web Front-end developer or Fullstack developer in Bangkok/Thailand.~~
-
 ## Skills
 ### Programming languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
