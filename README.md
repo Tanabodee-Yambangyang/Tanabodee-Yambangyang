@@ -4,7 +4,7 @@
 #### I am an aspiring software developer student at Kasetsart University with a deep passion for Front-end development.
 - See my resume at: <https://drive.google.com/file/d/1CVc8o0JL7I-dA9o8mQc9Wact3R9QCBV_/view?usp=sharing>
 - See my portfolio website at: <https://resume-website-pi.vercel.app/>
-- See my portfolio website (updated version) at: <https://portfolio-second-version-frontend-j.vercel.app/>
+- See my portfolio website (updated version) at: <https://portfolio-second-version-frontend-d.vercel.app/>
   
 ## Skills
 ### Programming languages:
