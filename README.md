@@ -1,10 +1,8 @@
-# Hi there 👋 I'm Tanabodee
+# Hi there 👋 I'm Tanabodee Yambangyang
 
 ## About me
-#### I am an aspiring software developer student at Kasetsart University with a deep passion for Front-end development.
-- See my resume at: <https://drive.google.com/file/d/1CVc8o0JL7I-dA9o8mQc9Wact3R9QCBV_/view?usp=sharing>
-- See my portfolio website at: <https://resume-website-pi.vercel.app/>
-- See my portfolio website (updated version) at: <https://portfolio-second-version-frontend-d.vercel.app/>
+#### I’m an aspiring Software Developer and Web Developer, with a Bachelor’s degree in Software and Knowledge Engineering from Kasetsart University. I have a strong passion for Front-end Development and am continuously expanding my skills in software engineering.
+- 🌐 [Visit my portfolio website](https://portfolio-second-version-frontend-d.vercel.app/)
   
 ## Skills
 ### Programming languages:
@@ -36,6 +34,14 @@
     src="https://github.com/Tanabodee-Yambangyang/Tanabodee-Yambangyang/blob/main/images/linkedin.png?raw=true"
     alt="Alt text"
     title="Optional title"
+    width="90">
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tanabodeeyambangyang@gmail.com">
+  <img
+    src="https://github.com/Tanabodee-Yambangyang/Tanabodee-Yambangyang/blob/main/images/email.png?raw=true"
+    alt="Email Tanabodee"
+    title="Send me an email"
     width="90">
 </a>
 
