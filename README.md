@@ -2,6 +2,7 @@
 
 ## About me
 #### I’m an aspiring Software Developer and Web Developer, with a Bachelor’s degree in Software and Knowledge Engineering from Kasetsart University. I have a strong passion for Front-end Development and am continuously expanding my skills in software engineering.
+- 📄 [View my resume](https://drive.google.com/file/d/1Mh26CJA-WB66Qqgt-s90O0QiDh5eCeis/view?usp=sharing)
 - 🌐 [Visit my portfolio website](https://portfolio-second-version-frontend-d.vercel.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanabodee-Yambangyang&layout=compact)](https://github.com/Tanabodee-Yambangyang)
@@ -12,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Development:
